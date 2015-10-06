@@ -1,5 +1,5 @@
 # ui-load
-Lazy loading js components for your application.
+ Loading js and CSS components for your application.
 
   - Library configurations
   - Loading the Component
