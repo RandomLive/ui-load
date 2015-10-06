@@ -19,7 +19,7 @@ Lazy loading js components for your application.
     <h1>Hello, world!</h1>
 
 
-    <div ui-options=" [ { data: ['test', 'test2'] } ]" ui-jq="MyOneComponent.js">
+    <div ui-options=" [ { data: ['test', 'test2'] } ]" ui-jq="MyOneComponent">
     </div
 
 
